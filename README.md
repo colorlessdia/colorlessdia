@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <!-- start -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20my%20page&fontSize=60)
 
+## ![Page repairing...](🔧)
+
 ## Skills & Studying
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white)
