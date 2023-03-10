@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- start -->
-![# Welcome to my page](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![# Welcome to my page](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## Skills & Studying
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
