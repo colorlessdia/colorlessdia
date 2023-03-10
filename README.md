@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
 ![](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colorlessdia&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colorlessdia&show_icons=true&theme=transparent)
 <!-- end -->
