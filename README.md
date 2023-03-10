@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <!-- start -->
 # Hi
 
-<img src="https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=Android&logoColor=white"/>
+![](https://img.shields.io/badge/<LABEL>-HTML-#E34F26)
 <!-- end -->
