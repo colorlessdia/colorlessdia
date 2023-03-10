@@ -31,5 +31,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 
+![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colorlessdia&show_icons=true&theme=transparent)
 <!-- end -->
