@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- start -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20my%20page&fontSize=60)
+# Welcom to my zone
 
 ## Page repairing... 🔧
 
