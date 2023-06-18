@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colorlessdia&show_icons=true&theme=transparent)
 
 <!-- footer -->
-<hr>
-![footer](https://capsule-render.vercel.app/api?type=transparent&section=footer&text=footer&fontSize=20)
+![footer](https://capsule-render.vercel.app/api?type=transparent&section=footer&text=2023.%KDH.%Github&fontSize=20)
 <!-- //footer -->
 
 <!-- end -->
