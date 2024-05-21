@@ -1,45 +1,58 @@
-<!--
-**colorlessdia/colorlessdia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- start -->
 
-# Welcom to my Github
 <!-- header -->
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello%World!&fontSize=50)
-<hr>
+![header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Kim%20Donghyun-nl-&fontSize=62&fontColor=333333&fontAlign=25&fontAlignY=38&desc=Front-End%20Developer&descSize=28&descAlign=35&descAlignY=90)
 <!-- //header -->
+<hr>
 
-## Skills & Studying
-![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+<br/>
 
-![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
-![](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+# Hello world!
 
-![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)
+<br/>
 
-![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+<!-- skills -->
+## Skills 📚
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colorlessdia&show_icons=true&theme=transparent)
+### Strong
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react%20js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Knowledgeable
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Threejs](https://img.shields.io/badge/three%20js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node%20js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/my%20sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Etc
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- //skills -->
+
+<br/>
+
+<!-- baekjoon -->
+## Baekjoon Algorithm </>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=castling)](https://solved.ac/castling)
+<!-- //baekjoon -->
+
+<br/>
+
+<!-- top language -->
+## Top Language 📊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colorlessdia&layout=compact&theme=transparent)
+<!-- //top language -->
+
+<br/>
 
 <!-- footer -->
-![footer](https://capsule-render.vercel.app/api?type=transparent&section=footer&text=2023.%KDH.%Github&fontSize=20)
+![footer](https://capsule-render.vercel.app/api?type=transparent&section=footer&text=2023-2024.%20Kim%20Donghyun.%20Github&fontAlign=19&fontSize=20)
 <!-- //footer -->
 
 <!-- end -->
