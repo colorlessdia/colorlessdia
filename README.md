@@ -8,6 +8,7 @@
 <br/>
 
 # Hello world! 👋
+Thank you for visiting my GitHub 🤝
 
 <br/>
 
@@ -59,7 +60,7 @@
 <br/>
 
 <!-- footer -->
-![footer](https://capsule-render.vercel.app/api?type=transparent&section=footer&height=40&text=2023-2024.%20Kim%20Donghyun.%20Github&fontAlign=19&fontSize=20)
+![footer](https://capsule-render.vercel.app/api?type=transparent&section=footer&height=40&text=2023-2024.%20Kim%20Donghyun.%20Github&fontAlign=19&fontSize=20&fontColor=333333)
 <!-- //footer -->
 
 <!-- end -->
